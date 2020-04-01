@@ -1,4 +1,3 @@
-# Udacity-Computer_Vision
 <h1> Udacity Computer Vision Nanodegree Projects </h1>
 
 1. Facial Keypoints
